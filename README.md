@@ -7,12 +7,12 @@ The article is submitted in Springer proceedings of the ITTA-2024 conference (ht
 
 ![Image 1](imgs/Overview.png)
 
-### EFA 
+### Efficient Fusion Attention 
 **The EFA block enhances the model's feature extraction capability by capturing task-relevant information while reducing redundancy in channel and spatial locations.**
 
 ![Image 5](imgs/EFA.png)
 
-### AFF
+### Adaptive Feature Fusion
 **The AFF decoding block fuses the purified low-level features from the encoder with the sampled features from the decoder, enhancing the network's understanding and expression of input features.**
 
 ![Image 6](imgs/AFF.png)
