@@ -1,6 +1,9 @@
 # :sunflower:: LANet: Lightweight Attention Network for Medical Image Segmentation 
 **This is the official implementation for article "LANet: Lightweight Attention Network for Medical Image Segmentation".** 
 
+**24.04。2024 - Attended the conference, waiting for final publication**
+![Image 0](imgs/94_00.png)
+
 **11.03.2024 - The article is accepted and will be published after the conference which will be held on Azerbaijan.**
 
 **20.12.2023 - The article is submitted in Springer proceedings of the ITTA-2024 conference (https://itta.cyber.az).**
