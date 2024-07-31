@@ -2,6 +2,7 @@
 **This is the official implementation for article "LANet: Lightweight Attention Network for Medical Image Segmentation".** 
 
 **31.07.2024 - Sign the agreement, the article will be published on Springer**
+
 **24.04.2024 - Attended the conference, waiting for final publication**
 ![Image 0](imgs/94_00.png)
 
