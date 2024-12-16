@@ -59,6 +59,7 @@ Split the datasets for train, validation and test with ratio **8:1:1**
 ![Image 3](imgs/img_ablation.png)
 
 ## :black_nib: For citation
+```bibtex
 @inproceedings{tang2024lanet,
   title={LANet: Lightweight Attention Network for Medical Image Segmentation},
   author={Tang, Yi and Pertsau, Dmitry and Zhao, Di and Kupryianava, Dziana and Tatur, Mikhail},
@@ -67,6 +68,6 @@ Split the datasets for train, validation and test with ratio **8:1:1**
   year={2024},
   organization={Springer}
 }
-
+```
 :exclamation: :eyes: **The codes can not be used for commercial purposes!!!**
 
